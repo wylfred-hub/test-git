@@ -3,7 +3,7 @@ public class Main{
     public static void main(String[] args){
 
         System.out.println("Hello world !");
-        System.out.println("Pour mon apprantissage de git avec la branche main");
+        System.out.println("Pour mon apprantissage de git avec claude ai");
 
     }
 
